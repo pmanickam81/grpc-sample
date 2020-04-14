@@ -1,4 +1,4 @@
-package org.example.grpc.client;
+package org.example.grpc.greet.client;
 
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;

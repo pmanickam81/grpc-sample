@@ -2,7 +2,6 @@ package org.example.grpc.calculator.server;
 
 import io.grpc.Server;
 import io.grpc.ServerBuilder;
-import org.example.grpc.server.GreetServiceImpl;
 
 import java.io.IOException;
 
